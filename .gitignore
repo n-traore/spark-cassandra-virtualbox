@@ -1,0 +1,6 @@
+# Terraform
+.terraform*
+terraform.tfstate*
+machine_interface.txt
+
+.DS_Store
